@@ -41,5 +41,5 @@ public class Veterinaria {
 		System.out.println("El medico atendio: " +listaMedicos[numeroMedico].getAnimalesAtendidos());
 	}
 	
-	//WORLD HOLD ON
+	//HOLA NEGRO
 }

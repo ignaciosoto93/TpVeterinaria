@@ -14,7 +14,6 @@ public class Doctor {
 
 
 
-
 	public void setAnimalesAtendidos(int animalesAtendidos) {
 		this.animalesAtendidos = animalesAtendidos;
 	}
